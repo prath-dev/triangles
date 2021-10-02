@@ -1,0 +1,42 @@
+
+  
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 33px 43px 33px 43px;
+    padding: 33px 43px 33px 43px;
+
+}
+
+
+.question-container{
+    display: flex;
+    flex-direction: column;
+    margin: 22px 32px 22px 32px;
+    font-size: 1.6rem;
+    padding: 22px;
+    border: 1px gray solid;
+    border-left: 5pblue solid;
+    border-radius: 12px;
+
+}
+
+label{
+
+    margin: 12px;
+}
+
+button{ 
+    display: flex; 
+    justify-content: center; 
+    margin: auto;
+    
+
+}
+
+.result{
+    text-align: center;
+    padding: 12px;
+    margin: 13px;
+    font-size: 1.8rem;
+}
