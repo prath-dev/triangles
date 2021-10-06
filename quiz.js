@@ -2,7 +2,7 @@ let quizform = document.querySelector('#quiz-Form');
 let btnsubmit =document.querySelector('#btn') ;
 let output = document.querySelector('#output') ;  
 
-let correctanswers =["acute","rirhtangle","80","90","80"]; 
+let correctanswers =["acute","Scalene","2 congruent sides","360 degrees","2a"]; 
 
 function calculatescore () {
     let score = 0 ;

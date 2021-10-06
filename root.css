@@ -4,7 +4,8 @@ nav{
     flex-direction: row;
     justify-content: space-between;
     background-color:rgb(165, 42, 48) ;
-    color: yellowgreen;
+    color: yellowgreen; 
+    width: 100%;
 }
 
 main{
@@ -24,4 +25,5 @@ a{
     color: white;
     font-weight: bold;
     text-decoration: none;
-}
+} 
+
